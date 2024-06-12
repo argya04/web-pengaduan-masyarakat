@@ -1,0 +1,58 @@
+// Akun user lainnya dapat dilihat di website pengaduan di menu list user
+
+// Password semua user = testing12345678
+
+// AKUN ADMIN
+localhost:8080
+admin
+testing12345678
+// END
+
+// AKUN PETUGAS VERIFIKASI
+localhost:8080
+petugas
+testing12345678
+
+//USERNAME DAN PASSWORD PETUGAS KATEGORIAL
+localhost:8080
+medis
+testing12345678
+
+localhost:8080
+damkar
+testing12345678
+
+localhost:8080
+polisi
+testing12345678
+
+localhost:8080
+pertanian
+testing12345678
+
+localhost:8080
+disdikbud
+testing12345678
+
+localhost:8080
+pertamanan
+testing12345678
+
+localhost:8080
+politik
+testing12345678
+
+//END
+
+//AKUN MASYARAKAT
+localhost:8080
+daniel
+testing12345678
+
+nofal
+testing12345678
+
+localhost:8080
+nita
+testing12345678
+//END
